@@ -75,8 +75,8 @@ The dashboard initially placed the loading skeleton too far down the page, makin
 
 ## Project Links
 
-- **GitHub Repository:** Add your repository URL here.
-- **Live Demo:** Add your deployed website URL here.
+- **GitHub Repository:** https://github.com/RBkavinraja/habitly-habit-tracker.
+- **Live Demo:** https://habitly-habit-tracker-ten.vercel.app.
 
 ## Note
 
