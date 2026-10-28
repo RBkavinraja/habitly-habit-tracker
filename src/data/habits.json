@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Drink 8 glasses of water",
+        "category": "Wellness",
+        "frequency": "Daily",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "name": "Read for 15 minutes",
+        "category": "Learning",
+        "frequency": "Daily",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "name": "Morning walk",
+        "category": "Fitness",
+        "frequency": "Daily",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "name": "Practice coding",
+        "category": "Learning",
+        "frequency": "Daily",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "name": "Plan the week",
+        "category": "Productivity",
+        "frequency": "Weekly",
+        "completed": true
+    },
+    {
+        "id": 6,
+        "name": "Meditate for 5 minutes",
+        "category": "Mindfulness",
+        "frequency": "Daily",
+        "completed": false
+    }
+]
